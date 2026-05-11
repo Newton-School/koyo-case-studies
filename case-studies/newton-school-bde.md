@@ -10,12 +10,12 @@ Newton School is an EdTech company founded in 2019 by Nishant Chandra and Siddha
 
 ## The Challenge
 
-- **Always-On Hiring:** BDE is a high-attrition role — 5–10 new hires needed every month, more during scale-up
-- **Sales Lead Stuck in Interviews:** Siddhi (Sr. Sales Manager) taking 3–4 interviews daily, directly eating into her selling time
-- **Revenue Impact:** Every hour in an interview room was an hour not closing deals
-- **HR Bottleneck:** Recruiters fighting for Siddhi's calendar slots, constantly rescheduling candidates around her availability
+- **Always-On Hiring:** BDE team of 50–60, with 5–10 new hires needed every month — pipeline never stops
+- **Sales Lead Stuck in Interviews:** Siddhi (Sr. Sales Manager) taking 3–4 interviews daily instead of mentoring her team and selling
+- **Team-Wide Revenue Impact:** When Siddhi's in interviews, the whole team loses — no coaching, no deal support, no pipeline reviews
+- **HR Bottleneck:** Recruiters fighting for Siddhi's calendar slots, constantly rescheduling around her availability
 
-*"My sales lead was spending half her day interviewing people instead of selling. That's not a hiring problem — that's a revenue problem."*
+*"My sales lead was spending half her day interviewing people instead of coaching her team and closing deals. That's not a hiring problem — that's a revenue problem."*
 
 — Nishant Chandra, Co-Founder, Newton School
 
@@ -24,40 +24,28 @@ Newton School is an EdTech company founded in 2019 by Nishant Chandra and Siddha
 1. **Step 1:** Siddhi's R1 evaluation criteria shared with Koyo — communication, objection handling, sales aptitude
 2. **Step 2:** Custom AI interview built to mirror her actual screening round
 3. **Step 3:** All BDE candidates now take the AI interview first — no slots, no scheduling, no dependency on Siddhi
-4. **Step 4:** 350 candidates scheduled, 204 completed the AI interview
-5. **Step 5:** 51 candidates sent to Round 2 based on AI evaluation; 31 R2s completed
-6. **Step 6:** 17 hires made. Selection rate ~70% from R2 — same or better than manual rounds
+4. **Step 4:** ~200 candidates completed the AI interview
+5. **Step 5:** 51 candidates moved to Round 2 based on AI evaluation
+6. **Step 6:** 17 hires closed — selection rate same or better than manual rounds
 
 ## TL;DR
 
-**350 scheduled. 204 interviewed. 17 hired. 0 hours of sales manager time. 4.1★ candidate rating.**
+**~200 interviewed. 51 to R2. 17 hired. 0 hours of sales manager time. 4.1★ candidate rating.**
 
 ## The Results
 
 | **17** | **20–30/day** | **4.1★** |
 |:---:|:---:|:---:|
 | Hires Closed | AI Interviews at Peak Scale | Candidate Experience Rating |
-| From 350 candidates, with ~70% R2 selection rate | Up from 3–4 manual interviews/day | Candidates rated the AI interview 4.1/5 |
-
-## The Data
-
-| Stage | Number |
-|:---|:---:|
-| Scheduled | 350 |
-| Completed AI Interview | 204 |
-| High Scorers (27%) | 55 |
-| Sent to Round 2 | 51 |
-| R2 Completed | 31 |
-| R2 Selected | 17 |
-| Cheating Detected | 4 (7.3%) |
+| ~200 AI interviews → 51 to R2 → 17 hired | Up from 3–4 manual interviews/day | Candidates rated the AI interview 4.1/5 |
 
 ## Testimonials
 
-*"Siddhi was doing 3–4 interviews a day. That's 15–20 hours a week not spent on revenue. Now she reviews reports and only talks to people who've already cleared the bar."*
+*"Siddhi was doing 3–4 interviews a day. That's 15–20 hours a week not spent mentoring her team or closing deals. Now she reviews reports and only talks to people who've already cleared the bar."*
 
 — **Nishant Chandra**, Co-Founder, Newton School
 
-*"I used to start my day with back-to-back interview slots. Now I start it with sales calls. The AI screens exactly the way I would — I trust the reports."*
+*"I used to start my day with back-to-back interview slots. Now I start it coaching my team and working deals. The AI screens exactly the way I would — I trust the reports."*
 
 — **Siddhi**, Sr. Sales Manager, Newton School
 
@@ -81,4 +69,4 @@ When the selection rate from Round 2 held steady at ~70%. The AI was filtering t
 That HR stopped asking for interview slots entirely. The pipeline just runs. Candidates interview on their own time, reports come in, and the team picks who moves forward. It went from a daily coordination problem to something that happens in the background.
 
 **Advice for someone evaluating an AI interviewer?**
-Look at what it costs you when your best people are stuck interviewing. For us, it was our sales lead not selling. The ROI wasn't in the hiring cost — it was in the revenue we got back.
+Look at what it costs you when your best people are stuck interviewing. For us, it was our sales lead not selling and not coaching her team. The ROI wasn't in the hiring cost — it was in the revenue we got back.
