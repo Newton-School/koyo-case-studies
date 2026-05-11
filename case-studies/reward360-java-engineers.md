@@ -10,11 +10,10 @@ Reward360 (R360 Group) is a loyalty and rewards platform company based in Bengal
 
 ## The Challenge
 
-- Hiring managers spending **1–2 hours daily** on Round 1 interviews with candidates who often weren't qualified
-- Engineering time pulled away from actual product work — every bad interview was an hour that didn't come back
-- Kalyan (Senior Engineering Manager) personally conducting most R1s for Java roles — OOPs, LLD, HLD, DSA — the full stack of technical evaluation
-- No way to filter candidates before the human round; everyone got the same 60–90 minute slot regardless of readiness
-- Other engineering managers across the team facing the same problem — interview load eating into sprint work
+- **Daily Interview Drain:** Senior Engineering Manager taking 1–2 R1 interviews every day, losing 10–15 hours/week
+- **Zero Pre-Filtering:** Every candidate got a 60–90 min slot — qualified or not
+- **Productivity Hit:** Bad interviews didn't just waste the hour — they killed focus for the rest of the day
+- **Team-Wide Problem:** Other engineering managers facing the same R1 overload across Java hiring
 
 *"I was taking one to two interviews every single day. When the candidate wasn't good, that hour was just gone — and so was my focus for the next hour."*
 
@@ -22,12 +21,12 @@ Reward360 (R360 Group) is a loyalty and rewards platform company based in Bengal
 
 ## The Solution
 
-1. Kalyan shared the questions he typically asks in R1s — Java fundamentals, OOPs concepts, LLD/HLD, and DSA problems
-2. Koyo built a custom AI interview tailored to Reward360's exact technical bar — not a generic screening, but their round, their questions, their expectations
-3. Every candidate now takes the AI interview first. No scheduling. No calendar juggling. Candidates do it on their own time
-4. Out of every 10–20 candidates interviewed by the AI, only 1–2 make the cut
-5. Kalyan now only meets the candidates who've already proven they can hold their own technically
-6. After each AI interview, the team gets a detailed report — scores, responses, strengths, gaps — before they ever speak to the candidate
+1. **Step 1:** Kalyan shared his R1 question bank — Java, OOPs, LLD/HLD, DSA
+2. **Step 2:** Koyo built a custom AI interview matching Reward360's exact technical bar
+3. **Step 3:** Candidates take the AI interview on their own time — no scheduling needed
+4. **Step 4:** AI filters 10–20 candidates down to 1–2 who actually clear the bar
+5. **Step 5:** Kalyan reviews detailed reports and only interviews pre-vetted candidates
+6. **Step 6:** Report integrated into ATS — now a permanent column in their hiring workflow
 
 ## TL;DR
 

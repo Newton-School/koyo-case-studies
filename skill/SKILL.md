@@ -27,11 +27,19 @@ The case study must NOT sound AI-generated. It should read like a sales customer
 ### Reference Style
 
 Match the style of Fabric HQ case studies (fabrichq.ai/case-studies). Key patterns:
-- Challenge = short bullet points (phrases, not sentences)
-- Solution = numbered step-by-step, one line each
+- Challenge = **Bold Label + colon + short phrase.** Not full sentences. Think "newspaper headline + one-liner."
+  - GOOD: "Founder Time Drain: Co-founders spending 15+ hours weekly on resume screening"
+  - GOOD: "Zero Pre-Filtering: Every candidate got a 60–90 min slot — qualified or not"
+  - BAD: "Hiring managers were spending 1-2 hours daily on Round 1 interviews with candidates who often weren't qualified" (too long, full sentence, no label)
+- Solution = numbered steps, **one short line each.** No elaboration, no dashes with extra clauses.
+  - GOOD: "Step 1: Kalyan shared his R1 question bank — Java, OOPs, LLD/HLD, DSA"
+  - GOOD: "Step 3: AI conducts initial technical interviews, assessing problem-solving and adaptability"
+  - BAD: "Koyo built a custom AI interview tailored to Reward360's exact technical bar — not a generic screening, but their round, their questions, their expectations" (way too long)
 - Results = big bold numbers with short label underneath
 - Quotes = short and punchy, 1-2 lines
 - Whole thing is scannable in 2 minutes
+
+This brevity is critical. If a bullet takes more than one line on screen, it's too long. When in doubt, cut words.
 
 ## Case Study Format
 
@@ -50,10 +58,11 @@ Overview:
 2-3 sentences about the company. Who they are, what they do, founded when/by whom if relevant.
 
 The Challenge:
-- Bullet point 1 (short phrase with bold number if applicable)
-- Bullet point 2
-- Bullet point 3
-- Bullet point 4
+- **Bold Label:** Short phrase with number if applicable
+- **Bold Label:** Short phrase
+- **Bold Label:** Short phrase
+- **Bold Label:** Short phrase
+(Each bullet = bold label + colon + one short phrase. Max ~15 words after the colon.)
 
 One short testimonial quote from the recruiter/TA person about the pain.
 
@@ -117,10 +126,10 @@ For reference, here's the first case study that was created using this workflow.
 **Subheading:** Newton School used Koyo's AI Recruiter to go from 500 applicants to a signed offer in 3 days — for a role that usually takes a month to close.
 
 **Challenge bullets:**
-- Data Analyst roles historically took 25–30 days to close
-- TA team spending most of their time on resume screening, calling candidates, and scheduling — not evaluating talent
-- Good candidates getting filtered out because their resumes didn't stand out on paper
-- Hiring manager's time going into too many first-round interviews with unqualified candidates
+- **Slow Time-to-Hire:** Data Analyst roles historically took 25–30 days to close
+- **TA Time Sink:** Team buried in resume screening, calling, and scheduling — not evaluating
+- **Resume Bias:** Good candidates filtered out because their resumes didn't stand out on paper
+- **Interview Overload:** Hiring manager doing too many R1s with unqualified candidates
 
 **TL;DR:** 500 applicants. 3 finalists. 1 hire. 3 days. ~3 hours of human effort.
 
