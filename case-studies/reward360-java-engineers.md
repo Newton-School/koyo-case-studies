@@ -1,4 +1,4 @@
-# How Reward360 Stopped Losing Engineering Hours to Bad Interviews — and Closed 10 Roles in 3 Months
+# How Reward360's Tech Team Got Back 10–15 Hours a Week for Their Senior Engineering Manager
 
 [Google Doc](https://docs.google.com/document/d/17RmzDOY9iUEZ1YREjObacA9Tpyfwas87r_Vlg0QyD7I/edit)
 
