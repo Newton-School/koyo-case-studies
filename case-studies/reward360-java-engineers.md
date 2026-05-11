@@ -30,14 +30,14 @@ Reward360 (R360 Group) is a loyalty and rewards platform company based in Bengal
 
 ## TL;DR
 
-**10–20 candidates. 1–2 shortlisted. 10 hires. 3 months. Zero wasted R1s.**
+**10–20 candidates. 1–2 shortlisted. 10 hires. 3 months. Zero wasted R1s. 4.6★ candidate rating.**
 
 ## The Results
 
-| **90%** | **10** | **~0 hrs** |
+| **90%** | **10** | **4.6★** |
 |:---:|:---:|:---:|
-| Fewer Manual R1 Interviews | Positions Closed in 3 Months | Time Spent on Unqualified Candidates |
-| From 1–2 daily interviews to reviewing reports | Across Java engineering roles | Kalyan only interviews pre-vetted candidates now |
+| Fewer Manual R1 Interviews | Positions Closed in 3 Months | Candidate Experience Rating |
+| From 1–2 daily interviews to reviewing reports | Across Java engineering roles | Candidates rated the AI interview 4.6/5 |
 
 ## Testimonials
 

@@ -81,6 +81,10 @@ Three metric cards side by side (markdown table):
 | Label        | Label        | Label        |
 | Detail       | Detail       | Detail       |
 
+Candidate Experience:
+One line with the candidate rating (e.g., "Candidates rated the AI interview experience **4.6/5**.")
+Include this if a rating is available. It signals trust and candidate buy-in.
+
 Testimonials:
 2-4 short quotes (1-2 lines each) from the hiring manager and/or recruiter.
 Each quote attributed with name and title.
