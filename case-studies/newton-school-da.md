@@ -1,6 +1,8 @@
 # How Newton School Hired a Data Analyst in 3 Days with Just 3 Hours of Manual Effort
 
-Newton School used Koyo's AI Recruiter to go from 500 applicants to a signed offer in 3 days — for a role that usually takes a month to close.
+[Google Doc](https://docs.google.com/document/d/1GjNJCVY1quFO8R-cyBavsa3HE2KUUiye/edit)
+
+*Newton School used Koyo's AI Recruiter to go from 500 applicants to a signed offer in 3 days — for a role that usually takes a month to close.*
 
 ## Overview
 
