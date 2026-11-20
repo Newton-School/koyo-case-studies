@@ -13,7 +13,8 @@ koyo-case-studies/
     ├── newton-school-da.md                  ← Newton School × Data Analyst hire
     ├── newton-school-bde.md                 ← Newton School × BDE hiring
     ├── physicswallah-academic-counsellor.md ← PhysicsWallah × Academic Counsellor campus drive
-    └── reward360-java-engineers.md          ← Reward360 × Java Engineers
+    ├── reward360-java-engineers.md          ← Reward360 × Java Engineers
+    └── urban-company-sales-consultant.md    ← Urban Company × Sales Consultant pilot
 ```
 
 ## How to add a new case study
